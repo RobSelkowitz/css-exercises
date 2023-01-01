@@ -1,0 +1,17 @@
+.odds{
+    background-color: rgb(242, 154, 154);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+/*stupid class name for 24 TV show*/
+.keifer{
+    font-size: 24pt;
+}
+
+#two{
+    color:rgb(37, 35, 205);
+    font-size: 36pt;
+}
+#four{
+    background-color:rgb(84, 220, 63);
+    font-weight: bold;
+}
